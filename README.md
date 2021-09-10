@@ -51,3 +51,33 @@ To github.com:Beyourwatch/C-_MV_SelectNIC.git
  
 
 
+# 手动在网页上，或者别人修改后，需要更新本地 git pull
+Boqie Zhang@DESKTOP-LDM2ITI MINGW64 ~/source/repos/GitHUB/Git_Record (main)
+$ git pull
+
+remote: Enumerating objects: 5, done.
+
+remote: Counting objects: 100% (5/5), done.
+
+remote: Compressing objects: 100% (2/2), done.
+
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+
+Unpacking objects: 100% (3/3), 697 bytes | 4.00 KiB/s, done.
+
+From github.com:Beyourwatch/Git_Record
+
+   29768c7..06f1476  main       -> origin/main
+   
+Updating 29768c7..06f1476
+
+Fast-forward
+
+ README.md | 6 +++++-
+ 
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+ 
+ 
+
+
+
