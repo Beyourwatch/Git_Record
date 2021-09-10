@@ -33,6 +33,11 @@ git push origin dev1:dev1
 
 ![image](https://user-images.githubusercontent.com/63569149/132831612-e7c81c84-ec8a-43d6-95cb-4b97dedc72fa.png)
 
+![image](https://user-images.githubusercontent.com/63569149/132831804-2c17b7d3-56a6-4000-beba-51f7abdfb55a.png)
+
+
+更变默认push的 分支，原本一直是main，上传到main，传到分支需要 git push origin dev1:dev1 很麻烦
+![image](https://user-images.githubusercontent.com/63569149/132832446-8b81fd61-1aec-4cdb-ad28-27fbbff51df6.png)
 
 
 
