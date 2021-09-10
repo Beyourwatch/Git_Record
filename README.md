@@ -26,6 +26,13 @@
 # 创建新的分支 git branch [分支名], git branch 查看分支， git checkout 切换分支
 ![image](https://user-images.githubusercontent.com/63569149/132830133-6dc008f8-c3a9-49d3-b9c4-a4df4e85ba86.png)
 
+上传分支
+执行 git push [主机名] [本地分支名]:[远程分支名] 即可将本地分支推送到远程仓库的分支中，通常冒号前后的分支名是相同的，如果是相同的，可以省略 :[远程分支名]，如果远程分支不存在，会自动创建：
+
+git push origin dev1:dev1
+
+![image](https://user-images.githubusercontent.com/63569149/132831612-e7c81c84-ec8a-43d6-95cb-4b97dedc72fa.png)
+
 
 
 
