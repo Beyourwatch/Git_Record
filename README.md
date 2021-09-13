@@ -48,3 +48,6 @@ git push origin dev1:dev1
 ![image](https://user-images.githubusercontent.com/63569149/133044407-f43eb6fe-a52e-4b06-b523-bc5010d0cbf5.png)
 
 
+# 修改branch名字， 
+![image](https://user-images.githubusercontent.com/63569149/133045484-1c5d1756-c91f-4cb1-8ad7-f6b7933623fc.png)
+
