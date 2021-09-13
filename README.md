@@ -40,6 +40,12 @@ git push origin dev1:dev1
 ![image](https://user-images.githubusercontent.com/63569149/132832446-8b81fd61-1aec-4cdb-ad28-27fbbff51df6.png)
 
 
+<<<<<<< HEAD
+# 删除远程分支 branch
+![image](https://user-images.githubusercontent.com/63569149/133038329-56173bf0-942a-4b91-83fd-92c483c77615.png)
+
+=======
 哈哈哈哈
+>>>>>>> 408cca097da6340a0cc49f1ffca4b505e1c86f85
 
 
