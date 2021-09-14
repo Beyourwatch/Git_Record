@@ -71,12 +71,18 @@ git push origin dev1:dev1
 # 建立tag
 ![image](https://user-images.githubusercontent.com/63569149/133189654-83681889-6e47-4548-a538-8a252d0682d6.png)
 
+
 上传 tag
+
 ![image](https://user-images.githubusercontent.com/63569149/133190055-c9e3a1d2-c22f-4232-9c0e-686fc3ab3f17.png)
 
+
 上传所有 tag
+
 ![image](https://user-images.githubusercontent.com/63569149/133190063-a32a4f37-14b5-40d4-a225-d5452c51dbf3.png)
 
+网页上显示发布和tags
+![image](https://user-images.githubusercontent.com/63569149/133190198-b3104068-09b1-43c6-87d7-ae2b3ae483dc.png)
 
 
 
