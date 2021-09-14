@@ -68,5 +68,38 @@ git push origin dev1:dev1
 
 结束
 
+# 建立tag
+![image](https://user-images.githubusercontent.com/63569149/133189654-83681889-6e47-4548-a538-8a252d0682d6.png)
+
+
+上传 tag
+
+![image](https://user-images.githubusercontent.com/63569149/133190055-c9e3a1d2-c22f-4232-9c0e-686fc3ab3f17.png)
+
+
+上传所有 tag
+
+![image](https://user-images.githubusercontent.com/63569149/133190063-a32a4f37-14b5-40d4-a225-d5452c51dbf3.png)
+
+网页上显示发布和tags
+
+![image](https://user-images.githubusercontent.com/63569149/133190198-b3104068-09b1-43c6-87d7-ae2b3ae483dc.png)
+
+删除不用的tags
+
+![image](https://user-images.githubusercontent.com/63569149/133190677-911345cd-45a2-45c7-a634-a55a0bff8b4c.png)
+
+网页上已更新：
+
+![image](https://user-images.githubusercontent.com/63569149/133190750-cd2e8708-bc9a-40c5-b2d9-ba62bff5cea6.png)
+
+checkout tag：
+
+![image](https://user-images.githubusercontent.com/63569149/133191997-06dbcba6-9f8d-4e56-9bf6-80442fc141ff.png)
+
+
+
+
+
 
 
