@@ -87,7 +87,8 @@ git push origin dev1:dev1
 删除不用的tags
 ![image](https://user-images.githubusercontent.com/63569149/133190677-911345cd-45a2-45c7-a634-a55a0bff8b4c.png)
 
-
+网页上已更新：
+![image](https://user-images.githubusercontent.com/63569149/133190750-cd2e8708-bc9a-40c5-b2d9-ba62bff5cea6.png)
 
 
 
