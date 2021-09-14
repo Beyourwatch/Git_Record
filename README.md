@@ -84,6 +84,10 @@ git push origin dev1:dev1
 网页上显示发布和tags
 ![image](https://user-images.githubusercontent.com/63569149/133190198-b3104068-09b1-43c6-87d7-ae2b3ae483dc.png)
 
+删除不用的tags
+![image](https://user-images.githubusercontent.com/63569149/133190677-911345cd-45a2-45c7-a634-a55a0bff8b4c.png)
+
+
 
 
 
