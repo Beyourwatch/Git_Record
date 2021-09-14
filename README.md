@@ -52,13 +52,14 @@ git push origin dev1:dev1
 ![image](https://user-images.githubusercontent.com/63569149/133045484-1c5d1756-c91f-4cb1-8ad7-f6b7933623fc.png)
 
 
-# hezuo xietong kaifa  collabration
+# 合作协同开发
 ![image](https://user-images.githubusercontent.com/90606115/133180432-60a97a5f-a57e-464b-91a6-d68d948cc70a.png)
 ![image](https://user-images.githubusercontent.com/90606115/133180473-14a46b7f-2606-4f1f-89f0-8de632f2c761.png)
-ti issue 
+提issue 
 ![image](https://user-images.githubusercontent.com/90606115/133180754-885a5a82-fed0-4e91-8bcf-84326afa0684.png)
 
 
+# 协同开发者提交pull request
 
 
 
