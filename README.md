@@ -60,10 +60,13 @@ git push origin dev1:dev1
 
 
 # 协同开发者提交pull request
+从协同开发者发出，或主发出，不同的分支
+![image](https://user-images.githubusercontent.com/63569149/133184403-2dcd0667-d924-4851-8f36-b9304458692c.png)
 
+提交后该步应该有别人来完成，完成comfirm该提交
+![image](https://user-images.githubusercontent.com/63569149/133184539-691c9ce0-552b-4f8d-9963-92c0a57be8dd.png)
 
-
-
+结束
 
 
 
