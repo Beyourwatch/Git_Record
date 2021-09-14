@@ -68,5 +68,9 @@ git push origin dev1:dev1
 
 结束
 
+# 建立tag
+![image](https://user-images.githubusercontent.com/63569149/133189654-83681889-6e47-4548-a538-8a252d0682d6.png)
+
+
 
 
